@@ -1,4 +1,4 @@
-# 🌐 Networking Fundamentals for Web Developers
+# 🌐 Networking Fundamentals for Web Developers 
 
 This repository contains my structured notes and diagrams on core Internet and Networking concepts that every Web Developer should understand before building applications.
 
@@ -118,4 +118,4 @@ Understanding networking fundamentals helps in:
 ---
 
 📌 Created as part of Peer Teaching Submission  
-👨‍💻 Author: Sushruto Majumdar  
+👨‍💻 Author: Sushruto Majumdar
